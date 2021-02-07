@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 hi this is file1 in master i will do the  merge and conflict lab in it.
+======
+this is file1 in branch1.
+>>>>>>> branch1
